@@ -11,7 +11,7 @@ I'm a senior studying **Computer Science and Engineering** at the University of 
 - **Tools & Platforms:**
 - **Methodologies:**
 
-## Notable Projects
+## Projects
 
 - **[Temperature Monitoring System](https://github.com/username/project-link)**  
   Built an IoT-based system using **Raspberry Pi Pico W** and MicroPython to monitor and alert based on temperature changes, integrating with ExpressJS and a web-based dashboard.
