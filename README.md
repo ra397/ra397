@@ -31,7 +31,7 @@ University of Iowa | Expected Graduation: 2024
 
 ## Let's Connect
 
-- [LinkedIn](www.linkedin.com/in/ralaya)
+- [LinkedIn](https://www.linkedin.com/in/ralaya/)
 - [GitHub](https://github.com/ra397)
 - Email: rabi-alaya@uiowa.edu
 
