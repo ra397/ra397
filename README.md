@@ -20,7 +20,7 @@ I'm a senior studying **Computer Science and Engineering** at the University of 
 
 **Student Software Developer**  
 *University of Iowa College of Public Health, Department of Epidemiology*  
-- __________
+- Description.
 
 ## Education
 
