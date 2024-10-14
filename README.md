@@ -27,7 +27,7 @@ I'm a senior studying **Computer Science and Engineering** at the University of 
 **B.S. Computer Science and Engineering**  
 University of Iowa | Expected Graduation: 2024
 
-- Courses:
+- Courses: Data Structures, Algorithms, Intro to Software Design, Operating Systems, Embedded Systems, Database Systems, Software Engineering Languages and Tools, Intro to AI and Machine Learning. 
 
 ## Let's Connect
 
