@@ -1,17 +1,20 @@
 # Hi, I'm Rabi Alaya 👋
 
-I'm a senior studying **Computer Science and Engineering** at the University of Iowa, passionate about ______. With hands-on experience in ______, I'm looking to apply my skills in a challenging software engineering or development role.
+I'm a senior studying **Computer Science and Engineering** at the University of Iowa, passionate about building custom software solutions that drive businesses and research forward. With hands-on experience in web development, I'm looking to apply my skills in a challenging software engineering role.
 
 ## Skills & Technologies
 
-- **Languages:** 
-- **Frameworks:** 
-- **Frontend:** 
-- **Databases:** 
-- **Tools & Platforms:**
-- **Methodologies:**
+- **Languages:** Python, Java, C#, Ruby, HTML/CSS/JavaScript
+- **Frameworks:** WPF, Ruby on Rails, .NET
+- **Frontend:** HTML5, CSS3, JavaScript, React
+- **Databases:** SQLite, PostgreSQL
+- **Tools & Platforms:** Git, Github, VS Code, Visual Studio, Heroku, Jira, Postman, Chrome DevTools
+- **Methodologies:** Agile, Test-Driven Development (TDD), Behavior-Driven Development (BDD)
 
 ## Projects
+
+- **Weight Rack Reservation System**
+  Created a web app using Ruby on Rails and PostgreSQL to manage gym reservations, with features like user authentication, admin controls, and real-time rack monitoring.
 
 - **[Temperature Monitoring System](https://github.com/username/project-link)**  
   Built an IoT-based system using **Raspberry Pi Pico W** and MicroPython to monitor and alert based on temperature changes, integrating with ExpressJS and a web-based dashboard.
@@ -20,11 +23,11 @@ I'm a senior studying **Computer Science and Engineering** at the University of 
 
 **Student Software Developer**  
 *University of Iowa College of Public Health, Department of Epidemiology*  
-- Description.
+- Developed a C# GUI application using WPF to support data annotation for a research study on youth cycling safety, used by a team of 15 researchers.
 
 ## Education
 
-**B.S. Computer Science and Engineering**  
+**B.S. Computer Science and Engineering, Minor in Mathematics**  
 University of Iowa | Expected Graduation: 2024
 
 - Courses: Data Structures, Algorithms, Intro to Software Design, Operating Systems, Embedded Systems, Database Systems, Software Engineering Languages and Tools, Intro to AI and Machine Learning. 
