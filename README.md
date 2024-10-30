@@ -13,7 +13,7 @@ I'm a senior studying **Computer Science and Engineering** at the University of 
 
 ## Projects
 
-- **Weight Rack Reservation System**
+  - **[Weight Rack Reservation System](https://github.com/username/project-link)**  
   Created a web app using Ruby on Rails and PostgreSQL to manage gym reservations, with features like user authentication, admin controls, and real-time rack monitoring.
 
 - **[Temperature Monitoring System](https://github.com/username/project-link)**  
