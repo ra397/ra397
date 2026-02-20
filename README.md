@@ -15,9 +15,9 @@ I build geospatial web applications for weather and hydrology research.
 
 | Project | Description |
 |---|---|
-| [Level II Browser](https://github.com/ra397) | GPU-accelerated NEXRAD data viewer — binary parsing, custom vertex shaders, WebGL polar-to-Mercator projection |
-| [MRMS Browser](https://github.com/ra397) | Real-time precipitation viewer — 60+ NOAA products, IndexedDB caching, Web Worker decoding |
-| [NextNEXRAD](https://github.com/ra397) | WSR-88D radar coverage analysis — 47M+ grid cells per request, sub-4s response times |
+| [Level II Browser](https://github.com/ra397/level2-browser) | GPU-accelerated NEXRAD data viewer — binary parsing, custom vertex shaders, WebGL polar-to-Mercator projection |
+| [MRMS Browser](https://github.com/ra397/MRMS-browser) | Real-time precipitation viewer — 60+ NOAA products, IndexedDB caching, Web Worker decoding |
+| [NextNEXRAD](https://github.com/ra397/NextNEXRAD) | WSR-88D radar coverage analysis — 47M+ grid cells per request, sub-4s response times |
 
 ---
 
